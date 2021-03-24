@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @c-concio
+- 👀 I’m interested in ML, web develpoment, game development, app development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on projects that have piqued my interests
+- 📫 How to reach me: email me at christopher_concio@outlook.com
